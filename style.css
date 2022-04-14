@@ -1,0 +1,170 @@
+header{
+  color: white
+}
+header{
+  background-color:teal;
+  padding: 40px
+}
+header{
+  text-align: center;
+  font-size: 40px
+
+}
+header{
+  font-weight: bold;
+  text-transform: uppercase;
+}
+header::first-letter{
+  font-size: 50px}
+  .topnav a{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover{
+    background-color: white;
+    color: black}
+.hh{
+  text-align: center;
+}
+.aa{
+  font-style: italic;
+  color: teal;
+  background-color: none;
+  text-transform: uppercase;
+}
+.para{
+  font-weight: bold;
+}
+.title{
+  font-weight: bolder;
+}
+.kel{
+  margin: auto;display: block;margin-left: auto;margin-right: auto;
+}
+footer {
+  background-color: black;
+  text-align: center;
+  padding: 20px;
+  color: white;
+  top: 20px;
+}
+#sidenav{
+  background-color: orange;
+  float: left;
+  height: 400px;
+  width: 30%
+}
+#navigation{
+  list-style-type: none;
+  color: white;
+height: 400px}
+  li{
+    ;height: 45px;
+    font-style:normal;
+  }
+  #city{
+    background-color: #D9514EFF;
+    color: white;
+    height: 400px;
+    float: right;
+    width: 70%;
+  }
+  body {font-family: Arial, Helvetica, sans-serif;}
+  * {box-sizing: border-box;}
+
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+
+  input[type=LOGIN] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  input[type=LOGIN]:hover {
+    background-color: teal;
+  }
+
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  .fa-facebook {
+
+    color: white;
+  }
+
+  .fa-twitter {
+
+    color: white;
+  }
+
+  .fa-google {
+
+    color: white;
+  }
+
+
+  .fa-youtube {
+
+    color: white;
+  }
+
+  .fa-instagram {
+
+    color: white;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+  .fa:hover {
+      opacity: 0.7;
+  }
+.zzz{
+  text-align: center;
+  color: teal;
+}
+#jim{
+  display: block;
+  margin-right: auto;
+  text-align: center;
+}
+#kkk{
+  text-align: center;
+  color: teal;
+}
+#hy{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left:90PX;
+  font-size: 100px;
+}
+#para{
+  font-size: 100px;
+}
+#hy hover{
+  color: lightblue;
+}
