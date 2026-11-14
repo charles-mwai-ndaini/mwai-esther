@@ -27,6 +27,6 @@ function myScore(){
   } else if(myScore<=29 && myScore>=0){
         document.getElementById("para").innerHTML ="E";
   }else {
-         document.getElementById("para").innerHTML="Please enter invalid score";
+         document.getElementById("para").innerHTML="Please enter a score";
 }
 }
